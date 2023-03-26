@@ -13,7 +13,7 @@ Here's a brief overview of the SMS spam classification process:
 
 5. Model Evaluation: Evaluate the performance of the trained model using various metrics such as accuracy, precision, recall, and F1-score.
 
-6. Model Deployment: Deploy the trained model using flask to classify incoming SMS messages as spam or ham in real-time.
+6. Model Deployment: Deploy the trained model using streamlit to classify incoming SMS messages as spam or ham in real-time.
 
 The SMS spam classification process can be implemented using various machine learning algorithms such as Naive Bayes, Support Vector Machines (SVM), and Random Forests. The choice of algorithm depends on the size of the dataset, the complexity of the classification problem, and the available computing resources.
 
